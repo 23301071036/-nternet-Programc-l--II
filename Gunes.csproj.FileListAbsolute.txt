@@ -1,0 +1,10 @@
+C:\Users\Ozkan\Desktop\Gunes\Gunes\bin\Debug\Gunes.exe.config
+C:\Users\Ozkan\Desktop\Gunes\Gunes\bin\Debug\Gunes.exe
+C:\Users\Ozkan\Desktop\Gunes\Gunes\bin\Debug\Gunes.pdb
+C:\Users\Ozkan\Desktop\Gunes\Gunes\obj\Debug\Gunes.csproj.AssemblyReference.cache
+C:\Users\Ozkan\Desktop\Gunes\Gunes\obj\Debug\Gunes.Form1.resources
+C:\Users\Ozkan\Desktop\Gunes\Gunes\obj\Debug\Gunes.Properties.Resources.resources
+C:\Users\Ozkan\Desktop\Gunes\Gunes\obj\Debug\Gunes.csproj.GenerateResource.cache
+C:\Users\Ozkan\Desktop\Gunes\Gunes\obj\Debug\Gunes.csproj.CoreCompileInputs.cache
+C:\Users\Ozkan\Desktop\Gunes\Gunes\obj\Debug\Gunes.exe
+C:\Users\Ozkan\Desktop\Gunes\Gunes\obj\Debug\Gunes.pdb
