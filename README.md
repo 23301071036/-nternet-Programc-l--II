@@ -1,2 +1,2 @@
 # VTYS-DEV-
-VTYS ÖDEVİ
+İnternet Programcılı-II Final
